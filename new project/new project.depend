@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1581013914 source:c:\users\katrin\documents\programming\new project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	<limits.h>
+
+1581013914 source:c:\users\katrin\documents\1st semester\programming\new project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	<limits.h>
+
